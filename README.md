@@ -7,7 +7,7 @@ This is a custom Spacemacs layer that integrates the `diogenes.el` package, enab
 1. Clone this repository into your Spacemacs private layers directory:
 
    ```bash
-   git clone https://github.com/brunocbr/diogenes-layer.git ~/.emacs.d/private/diogenes
+   git clone https://github.com/VictorSousa92/diogenes-layer.git C:\Users\sousa\AppData\Roaming\.emacs.d\private\diogenes
    ```
 
 2. Add the `diogenes` layer to your Spacemacs configuration. In `~/.spacemacs`, add `diogenes` to the `dotspacemacs-configuration-layers` list:
