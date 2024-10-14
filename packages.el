@@ -43,7 +43,7 @@
 (defconst diogenes-packages
   '((diogenes :location (recipe
                          :fetcher github
-                         :repo "brunocbr/diogenes.el")))
+                         :repo "VictorSousa92/diogenes.el")))
   "The list of Lisp packages required by the diogenes layer.
 
 Each entry is either:
