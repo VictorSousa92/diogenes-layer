@@ -22,10 +22,10 @@ This is a custom Spacemacs layer that integrates the `diogenes.el` package, enab
 
 3. Restart Spacemacs or reload your configuration (`SPC q r`).
 
-4. Customize `diogenes-cli-cmd` with the full path of `diogenes-cli.pl`:
+4. Customize `diogenes-path` with the full path of your `diogenes` installation folder:
 
   ```
-  M-x customize-variable <RET> diogenes-cli-cmd
+  M-x customize-variable <RET> diogenes-path
   ```
 
 ## Keybindings
