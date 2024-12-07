@@ -1,6 +1,6 @@
 # Diogenes Layer for Spacemacs
 
-This is a custom Spacemacs layer that integrates the `diogenes.el` package, enabling efficient interaction with the Diogenes Latin and Greek texts search engine directly within Spacemacs. The package is cloned from [brunocbr/diogenes.el](https://github.com/brunocbr/diogenes.el) and includes custom keybindings for Greek and Latin text searching, browsing, and processing.
+This is a custom Spacemacs layer that integrates the `diogenes.el` package, enabling efficient interaction with the Diogenes Latin and Greek texts search engine directly within Spacemacs. The package is cloned from [VictorSousa92/diogenes.el](https://github.com/VictorSousa92/diogenes.el) and includes custom keybindings for Greek and Latin text searching, browsing, and processing.
 
 ## Installation
 
